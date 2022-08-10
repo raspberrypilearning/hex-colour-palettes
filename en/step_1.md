@@ -4,7 +4,7 @@ The starter project is set up to use `default.css`, which is a greyscale colour 
 
 ![The default colour palette showing five shades of grey.](images/greyscale.png)
 
-**Find:** In the `<head></head>` element of `index.html`, find the line of code that links to `default.css`:
+**Find:** In the `<head></head>` element of `index.html`, find the line of code that links to `default.css`.
 
 --- code ---
 ---

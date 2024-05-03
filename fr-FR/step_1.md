@@ -23,7 +23,7 @@ line_highlights: 23
  <link href="default.css" rel="stylesheet" type="text/css" /> 
 ```
 
-  
+  </head>
 
 \--- /code ---
 
@@ -46,7 +46,7 @@ line_highlights: 23
  <link href="fiesta.css" rel="stylesheet" type="text/css" /> 
 ```
 
-  
+  </head>
 
 \--- /code ---
 

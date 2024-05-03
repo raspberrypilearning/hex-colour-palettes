@@ -1,10 +1,10 @@
-The starter project contains 20 colour palette CSS files.
+Het startproject bevat 20 CSS-bestanden met kleurenpaletten.
 
-The starter project is set up to use `default.css`, which is a greyscale colour palette.
+Het startproject is ingesteld om `default.css` te gebruiken, wat een grijswaardenkleurenpalet is.
 
-![The default colour palette showing five shades of grey.](images/greyscale.png)
+![Het standaardkleurenpalet dat vijf grijstinten laat zien.](images/greyscale.png)
 
-**Find:** In the `<head></head>` element of `index.html`, find the line of code that links to `default.css`.
+**Zoek:** Zoek in het `<head></head>` element van `index.html` de coderegel die linkt naar `default.css`.
 
 ## --- code ---
 
@@ -23,11 +23,11 @@ line_highlights: 23
  <link href="default.css" rel="stylesheet" type="text/css" /> 
 ```
 
-  
+  </head>
 
 \--- /code ---
 
-Change the filename in the link to use the CSS filename of the colour palette you want to use.
+Wijzig de bestandsnaam in de link om de CSS-bestandsnaam te gebruiken van het kleurenpalet dat je wilt gebruiken.
 
 ## --- code ---
 
@@ -46,128 +46,128 @@ line_highlights: 23
  <link href="fiesta.css" rel="stylesheet" type="text/css" /> 
 ```
 
-  
+  </head>
 
 \--- /code ---
 
-Below is a list of all the included colour palettes and their filenames.
+Hieronder vind je een lijst met alle meegeleverde kleurenpaletten en hun bestandsnamen.
 
-## Cafe
+## Café
 
-filename: cafe.css
+bestandsnaam: cafe.css
 
-![Five shades of cream, pinks, and browns.](images/cafe.png)
+![Vijf tinten crème, roze en bruin.](images/cafe.png)
 
-## Comic
+## Grappig
 
-filename: comic.css
+bestandsnaam: comic.css
 
-![Five shades of cream, red, blue, navy blue, and brown.](images/comic.png)
+![Vijf tinten crème, rood, blauw, marineblauw en bruin.](images/comic.png)
 
 ## Companion
 
-filename: companion.css
+bestandsnaam: companion.css
 
-![Five shades of yellows, red, and black.](images/companion.png)
+![Vijf tinten geel, rood en zwart.](images/companion.png)
 
 ## Disco
 
-filename: disco.css
+bestandsnaam: disco.css
 
-![Five shades of pink, lime green, blue, aquamarine, and yellow.](images/disco.png)
+![Vijf tinten roze, limoen, blauw, aquamarijn en geel.](images/disco.png)
 
 ## Festival
 
-filename: festival.css
+bestandsnaam: festival.css
 
-![Five shades of orange, red, greens, and brown.](images/festival.png)
+![Vijf tinten oranje, rood, groen en bruin.](images/festival.png)
 
-## Fiesta
+## Feest
 
-filename: fiesta.css
+bestandsnaam: fiesta.css
 
-![Five shades of blue, red, yellow, green, and brown.](images/fiesta.png)
+![Vijf tinten blauw, rood, geel, groen en bruin.](images/fiesta.png)
 
-## Helpful plumber
+## Nuttige loodgieter
 
-filename: helpful-plumber.css
+bestandsnaam: helpful-plumber.css
 
-![Five shades of yellow, blue, red, green, and black.](images/helpful-plumber.png)
+![Vijf kleuren geel, blauw, rood, groen en zwart.](images/helpful-plumber.png)
 
-## Land animals
+## Landdieren
 
-filename: land-animals.css
+bestandsnaam: land-animals.css
 
-![Five shades of greens, orange, yellow, and black.](images/land-animals.png)
+![Vijf tinten groen, oranje, geel en zwart.](images/land-animals.png)
 
-## Medals
+## Medailles
 
-filename: medals.css
+bestandsnaam: medals.css
 
-![Five shades of silver, golds, bronze, and brown.](images/medals.png)
+![Vijf tinten zilver, goud, brons en bruin.](images/medals.png)
 
-## Money
+## Geld
 
-filename: money.css
+bestandsnaam: money.css
 
-![Five shades of blues, grey, and orange.](images/money.png)
+![Vijf tinten blauw, grijs en oranje.](images/money.png)
 
-## Nature
+## Natuur
 
-filename: nature.css
+bestandsnaam: nature.css
 
-![Five shades of yellow and greens.](images/nature.png)
+![Vijf tinten geel en groen.](images/nature.png)
 
 ## Pastel
 
-filename: pastel.css
+bestandsnaam: pastel.css
 
-![Five shades of yellow, pink, green, purple, and grey.](images/pastel.png)
+![Vijf tinten geel, roze, groen, paars en grijs.](images/pastel.png)
 
-## Primary
+## Primair
 
-filename: primary.css
+bestandsnaam: primary.css
 
-![Five shades of green, red, blue, yellow, and purple.](images/primary.png)
+![Vijf tinten groen, rood, blauw, geel en paars.](images/primary.png)
 
-## Smokey
+## Rokerig
 
-filename: smokey.css
+bestandsnaam: smokey.css
 
-![Five shades of greys, red, and brown.](images/smokey.png)
+![Vijf tinten grijs, rood en bruin.](images/smokey.png)
 
-## Space
+## Ruimte
 
-filename: space.css
+bestandsnaam: space.css
 
-![Five shades of purple, black, and blues.](images/space.png)
+![Vijf tinten paars, zwart en blauw.](images/space.png)
 
-## Sunset
+## Zonsondergang
 
-filename: sunset.css
+bestandsnaam: sunset.css
 
-![Five shades of purples, orange, and pinks.](images/sunset.png)
+![Vijf tinten paars, oranje en roze.](images/sunset.png)
 
-## Sunshine
+## Zonneschijn
 
-filename: sunshine.css
+bestandsnaam: sunshine.css
 
-![Five shades of yellows, oranges, and brown.](images/sunshine.png)
+![Vijf tinten geel, oranje en bruin.](images/sunshine.png)
 
 ## Thriller
 
-filename: thriller.css
+bestandsnaam: thriller.css
 
-![Five shades of grey, black, whites, and red.](images/thriller.png)
+![Vijf tinten grijs, zwart, wit en rood.](images/thriller.png)
 
-## Water animals
+## Waterdieren
 
-filename: water-animals.css
+bestandsnaam: water-animals.css
 
-![Five shades of blue. ](images/water-animals.png)
+![Vijf tinten blauw. ](images/water-animals.png)
 
-## Woodland
+## Bos
 
-filename: woodland.css
+bestandsnaam: woodland.css
 
-![Five shades of yellows, green, black, and grey.](images/woodland.png)
+![Vijf tinten geel, groen, zwart en grijs.](images/woodland.png)

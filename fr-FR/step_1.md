@@ -1,8 +1,8 @@
-The starter project contains 20 colour palette CSS files.
+Le projet de démarrage contient 20 fichiers CSS de palette de couleurs.
 
-The starter project is set up to use `default.css`, which is a greyscale colour palette.
+Il est configuré pour utiliser `default.css`, qui est une palette de couleurs en niveaux de gris.
 
-![The default colour palette showing five shades of grey.](images/greyscale.png)
+![La palette de couleurs par défaut affichant cinq nuances de gris.](images/greyscale.png)
 
 **Find:** In the `<head></head>` element of `index.html`, find the line of code that links to `default.css`.
 
@@ -27,7 +27,7 @@ line_highlights: 23
 
 \--- /code ---
 
-Change the filename in the link to use the CSS filename of the colour palette you want to use.
+Change le nom de fichier dans le lien pour utiliser le nom de fichier CSS de la palette de couleurs que tu veux utiliser.
 
 ## --- code ---
 
@@ -50,124 +50,124 @@ line_highlights: 23
 
 \--- /code ---
 
-Below is a list of all the included colour palettes and their filenames.
+Tu trouveras ci-dessous une liste de toutes les palettes de couleurs incluses et leur nom de fichier.
 
 ## Cafe
 
-filename: cafe.css
+nom de fichier : cafe.css
 
-![Five shades of cream, pinks, and browns.](images/cafe.png)
+![Cinq nuances de crème, de roses et de bruns.](images/cafe.png)
 
 ## Comic
 
-filename: comic.css
+nom de fichier : comic.css
 
-![Five shades of cream, red, blue, navy blue, and brown.](images/comic.png)
+![Cinq nuances de crème, de rouge, de bleu, de bleu marine et de brun.](images/comic.png)
 
 ## Companion
 
-filename: companion.css
+nom de fichier : companion.css
 
-![Five shades of yellows, red, and black.](images/companion.png)
+![Cinq nuances de jaunes, de rouges et de noirs.](images/companion.png)
 
 ## Disco
 
-filename: disco.css
+nom de fichier : disco.css
 
-![Five shades of pink, lime green, blue, aquamarine, and yellow.](images/disco.png)
+![Cinq nuances de rose, de vert citron, de bleu, d'aquamarine et de jaune.](images/disco.png)
 
 ## Festival
 
-filename: festival.css
+nom de fichier : festival.css
 
-![Five shades of orange, red, greens, and brown.](images/festival.png)
+![Cinq nuances d'orange, de rouge, de vert et de brun.](images/festival.png)
 
 ## Fiesta
 
-filename: fiesta.css
+nom de fichier : fiesta.css
 
-![Five shades of blue, red, yellow, green, and brown.](images/fiesta.png)
+![Cinq nuances de bleu, rouge, jaune, vert et brun.](images/fiesta.png)
 
 ## Helpful plumber
 
-filename: helpful-plumber.css
+nom de fichier : helpful-plumber.css
 
-![Five shades of yellow, blue, red, green, and black.](images/helpful-plumber.png)
+![Cinq nuances de jaune, bleu, rouge, vert et noir.](images/helpful-plumber.png)
 
 ## Land animals
 
-filename: land-animals.css
+nom de fichier : land-animals.css
 
-![Five shades of greens, orange, yellow, and black.](images/land-animals.png)
+!Cinq nuances de vert, orange, jaune et noir.](images/land-animals.png)
 
 ## Medals
 
-filename: medals.css
+nom de fichier : medals.css
 
-![Five shades of silver, golds, bronze, and brown.](images/medals.png)
+![Cinq nuances d'argent, d'or, de bronze et de brun.](images/medals.png)
 
 ## Money
 
-filename: money.css
+nom de fichier : money.css
 
-![Five shades of blues, grey, and orange.](images/money.png)
+![Cinq nuances de bleu, de gris et d'orange.](images/money.png)
 
 ## Nature
 
-filename: nature.css
+nom de fichier : nature.css
 
-![Five shades of yellow and greens.](images/nature.png)
+![Cinq nuances de jaune et de vert.](images/nature.png)
 
 ## Pastel
 
-filename: pastel.css
+nom de fichier : pastel.css
 
-![Five shades of yellow, pink, green, purple, and grey.](images/pastel.png)
+![Cinq nuances de jaune, rose, vert, violet et gris.](images/pastel.png)
 
 ## Primary
 
-filename: primary.css
+nom de fichier : primary.css
 
-![Five shades of green, red, blue, yellow, and purple.](images/primary.png)
+![Cinq nuances de vert, rouge, bleu, jaune et violet.](images/primary.png)
 
 ## Smokey
 
-filename: smokey.css
+nom de fichier : smokey.css
 
-![Five shades of greys, red, and brown.](images/smokey.png)
+![Cinq nuances de gris, de rouge et de brun.](images/smokey.png)
 
 ## Space
 
-filename: space.css
+nom de fichier : space.css
 
-![Five shades of purple, black, and blues.](images/space.png)
+![Cinq nuances de violet, de noir et de bleu.](images/space.png)
 
 ## Sunset
 
-filename: sunset.css
+nom de fichier : sunset.css
 
-![Five shades of purples, orange, and pinks.](images/sunset.png)
+![Cinq nuances de violet, d'orange et de rose.](images/sunset.png)
 
 ## Sunshine
 
-filename: sunshine.css
+nom de fichier : sunshine.css
 
-![Five shades of yellows, oranges, and brown.](images/sunshine.png)
+![Cinq nuances de jaune, d'orange et de brun.](images/sunshine.png)
 
 ## Thriller
 
-filename: thriller.css
+nom de fichier : thriller.css
 
-![Five shades of grey, black, whites, and red.](images/thriller.png)
+![Cinq nuances de gris, noir, blanc et rouge.](images/thriller.png)
 
 ## Water animals
 
-filename: water-animals.css
+nom de fichier : water-animals.css
 
-![Five shades of blue. ](images/water-animals.png)
+![Cinq nuances de bleu. ](images/water-animals.png)
 
 ## Woodland
 
-filename: woodland.css
+nom de fichier : woodland.css
 
-![Five shades of yellows, green, black, and grey.](images/woodland.png)
+![Cinq nuances de jaune, de vert, de noir et de gris.](images/woodland.png)

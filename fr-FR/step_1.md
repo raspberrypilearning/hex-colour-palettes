@@ -4,7 +4,7 @@ Il est configuré pour utiliser `default.css`, qui est une palette de couleurs e
 
 ![La palette de couleurs par défaut affichant cinq nuances de gris.](images/greyscale.png)
 
-**Find:** In the `<head></head>` element of `index.html`, find the line of code that links to `default.css`.
+**Trouver :** dans l'élément `<head></head>` de `index.html`, trouve la ligne de code qui renvoie à `default.css`.
 
 ## --- code ---
 

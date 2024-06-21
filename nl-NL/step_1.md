@@ -58,7 +58,7 @@ bestandsnaam: comic.css
 
 ![Vijf tinten crème, rood, blauw, marineblauw en bruin.](images/comic.png)
 
-## Companion
+## Metgezel
 
 bestandsnaam: companion.css
 

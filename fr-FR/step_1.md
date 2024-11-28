@@ -92,7 +92,7 @@ nom de fichier : helpful-plumber.css
 
 nom de fichier : land-animals.css
 
-!Cinq nuances de vert, orange, jaune et noir.](images/land-animals.png)
+![Cinq nuances de vert, orange, jaune et noir.](images/land-animals.png)
 
 ## Medals
 

@@ -171,3 +171,4 @@ bestandsnaam: water-animals.css
 bestandsnaam: woodland.css
 
 ![Vijf tinten geel, groen, zwart en grijs.](images/woodland.png)
+

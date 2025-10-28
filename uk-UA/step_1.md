@@ -1,10 +1,10 @@
-The starter project contains 20 colour palette CSS files.
+Початковий проєкт містить 20 CSS-файлів з палітрами кольорів.
 
-The starter project is set up to use `default.css`, which is a greyscale colour palette.
+Стартовий проєкт налаштовано на використання `default.css`, що є палітрою кольорів у градаціях сірого.
 
-![The default colour palette showing five shades of grey.](images/greyscale.png)
+! Кольорова палітра за замовчуванням, яка показує п'ять відтінків сірого.](images/greyscale.png)
 
-**Find:** In the `<head></head>` element of `index.html`, find the line of code that links to `default.css`.
+**Знайди** в елементі `<head></head>` файлу `index.html` рядок коду, який посилається на `default.css`.
 
 ## --- code ---
 
@@ -27,7 +27,7 @@ line_highlights: 23
 
 \--- /code ---
 
-Change the filename in the link to use the CSS filename of the colour palette you want to use.
+Зміни назву файлу в посиланні на назву CSS-файлу потрібної палітри кольорів.
 
 ## --- code ---
 
@@ -50,125 +50,125 @@ line_highlights: 23
 
 \--- /code ---
 
-Below is a list of all the included colour palettes and their filenames.
+Нижче наведено список усіх наявних палітр кольорів та назв їхніх файлів.
 
-## Cafe
+## Кафе
 
-filename: cafe.css
+Назва файлу: cafe.css
 
-![Five shades of cream, pinks, and browns.](images/cafe.png)
+![П'ять відтінків кремового, рожевого та коричневого.](images/cafe.png)
 
-## Comic
+## Комікс
 
-filename: comic.css
+Назва файлу: comic.css
 
-![Five shades of cream, red, blue, navy blue, and brown.](images/comic.png)
+![П'ять відтінків кремового, червоного, синього, темно-синього та коричневого.](images/comic.png)
 
-## Companion
+## Компаньйон
 
-filename: companion.css
+Назва файлу: companion.css
 
-![Five shades of yellows, red, and black.](images/companion.png)
+![П'ять відтінків жовтого, червоного та чорного.] (images/companion.png)
 
-## Disco
+## Дискотека
 
-filename: disco.css
+Назва файлу: disco.css
 
-![Five shades of pink, lime green, blue, aquamarine, and yellow.](images/disco.png)
+![П'ять відтінків рожевого, салатового, блакитного, аквамаринового та жовтого.] (images/disco.png)
 
-## Festival
+## Свято
 
-filename: festival.css
+Назва файлу: festival.css
 
-![Five shades of orange, red, greens, and brown.](images/festival.png)
+![П'ять відтінків помаранчевого, червоного, зеленого та коричневого.](images/festival.png)
 
-## Fiesta
+## Фієста
 
-filename: fiesta.css
+Назва файлу: fiesta.css
 
-![Five shades of blue, red, yellow, green, and brown.](images/fiesta.png)
+![П'ять відтінків синього, червоного, жовтого, зеленого та коричневого.] (images/fiesta.png)
 
-## Helpful plumber
+## Завзятий сантехнік
 
-filename: helpful-plumber.css
+Назва файлу: helpful-plumber.css
 
-![Five shades of yellow, blue, red, green, and black.](images/helpful-plumber.png)
+![П'ять відтінків жовтого, синього, червоного, зеленого та чорного.](images/helpful-plumber.png)
 
-## Land animals
+## Наземні тварини
 
-filename: land-animals.css
+Назва файлу: land-animals.css
 
-![Five shades of greens, orange, yellow, and black.](images/land-animals.png)
+![П'ять відтінків зеленого, помаранчевого, жовтого та чорного.](images/land-animals.png)
 
-## Medals
+## Досягнення
 
-filename: medals.css
+Назва файлу: medals.css
 
-![Five shades of silver, golds, bronze, and brown.](images/medals.png)
+![П'ять відтінків срібного, золотого, бронзового та коричневого.] (images/medals.png)
 
-## Money
+## Гроші
 
-filename: money.css
+Назва файлу: money.css
 
-![Five shades of blues, grey, and orange.](images/money.png)
+![П'ять відтінків синього, сірого та помаранчевого.] (images/money.png)
 
-## Nature
+## Природа
 
-filename: nature.css
+Назва файлу: nature.css
 
-![Five shades of yellow and greens.](images/nature.png)
+![П'ять відтінків жовтого та зеленого.](images/nature.png)
 
-## Pastel
+## Пастель
 
-filename: pastel.css
+Назва файлу: pastel.css
 
-![Five shades of yellow, pink, green, purple, and grey.](images/pastel.png)
+![П'ять відтінків жовтого, рожевого, зеленого, фіолетового та сірого.](images/pastel.png)
 
-## Primary
+## Основні кольори
 
-filename: primary.css
+Назва файлу: primary.css
 
-![Five shades of green, red, blue, yellow, and purple.](images/primary.png)
+![П'ять відтінків зеленого, червоного, синього, жовтого та фіолетового.](images/primary.png)images/primary.png
 
-## Smokey
+## Димок
 
-filename: smokey.css
+Назва файлу: smokey.css
 
-![Five shades of greys, red, and brown.](images/smokey.png)
+![П'ять відтінків сірого, червоного та коричневого.] (images/smokey.png)
 
-## Space
+## Космос
 
-filename: space.css
+Назва файлу: space.css
 
-![Five shades of purple, black, and blues.](images/space.png)
+![П'ять відтінків фіолетового, чорного і синього.](images/space.png)
 
-## Sunset
+## Захід сонця
 
-filename: sunset.css
+Назва файлу: sunset.css
 
-![Five shades of purples, orange, and pinks.](images/sunset.png)
+![П'ять відтінків фіолетового, помаранчевого та рожевого.](images/sunset.png)
 
-## Sunshine
+## Сонячне проміння
 
-filename: sunshine.css
+Назва файлу: sunshine.css
 
-![Five shades of yellows, oranges, and brown.](images/sunshine.png)
+![П'ять відтінків жовтого, помаранчевого та коричневого.](images/sunshine.png)
 
-## Thriller
+## Трилер
 
-filename: thriller.css
+Назва файлу: thriller.css
 
-![Five shades of grey, black, whites, and red.](images/thriller.png)
+![П'ять відтінків сірого, чорного, білого та червоного.](images/thriller.png)
 
-## Water animals
+## Водні тварини
 
-filename: water-animals.css
+Назва файлу: water-animals.css
 
-![Five shades of blue. ](images/water-animals.png)
+П'ять відтінків синього. ](images/water-animals.png)
 
-## Woodland
+## Ліс
 
-filename: woodland.css
+Назва файлу: woodland.css
 
-![Five shades of yellows, green, black, and grey.](images/woodland.png)
+!! П'ять відтінків жовтих, зелений, чорний і сірий.](images/woodland.png)
 

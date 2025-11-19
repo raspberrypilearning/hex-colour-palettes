@@ -158,7 +158,7 @@ filename: thriller.css
 
 filename: water-animals.css
 
-![Five shades of blue. ](images/water-animals.png)
+![Five shades of blue.](images/water-animals.png)
 
 ## Woodland
 
